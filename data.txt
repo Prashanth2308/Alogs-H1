@@ -1,0 +1,11 @@
+ID,Name,Age,City,Department,Salary
+101,Rahul,24,Bengaluru,IT,45000
+102,Priya,26,Hyderabad,HR,52000
+103,Amit,28,Mumbai,Finance,60000
+104,Neha,23,Chennai,Marketing,40000
+105,Arjun,30,Delhi,IT,75000
+106,Sneha,27,Pune,Sales,55000
+107,Karan,25,Kolkata,IT,48000
+108,Ananya,29,Bengaluru,Finance,68000
+109,Vikram,31,Hyderabad,HR,72000
+110,Meera,22,Chennai,Marketing,38000
